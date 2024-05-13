@@ -76,3 +76,10 @@ can be set to change the resulting image tag:
     
     Example:
     gpu_burn -d 3600
+
+# Fork description
+
+* Updated CUDA version
+* Updated base OS
+* Add default user account
+
