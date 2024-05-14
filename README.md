@@ -14,7 +14,7 @@ Multi-GPU CUDA stress test based on a fork of http://wili.cc/blog/gpu-burn.html
 Docker image usage:
 
 ```
-docker run -it --rm --gpus all iankoulski/gpuburn 60
+docker run -it --rm --gpus all iankoulski/gpuburn /app/gpu_burn 60
 ```
 
 GPU Burn usage:
